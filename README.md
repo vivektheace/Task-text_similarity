@@ -1,3 +1,6 @@
+**GRADIO LIVE ENDPOINT - https://huggingface.co/spaces/vivekdace/semantic-similarity-app
+FASTAPI LIVE ENDPOINT - https://text-similarity-model-uwpv.onrender.com/docs
+**
 # Assignment **Report: Semantic Similarity Model & Deployment**
 
 ## Part A: Core Modeling Approach
